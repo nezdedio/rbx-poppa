@@ -8,7 +8,7 @@
             "vpn_password" : "204703142",
 
             "int_interval" : 1,
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
@@ -30,7 +30,7 @@
             "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
             "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
 
-            "iron_source_key": "18230fb2d",
+            "iron_source_key": "",
 
             "diamond": "https://raw.githubusercontent.com/nezdedio/uogg/main/di.gif",
             "cover": "https://d2z8nyy70yf33i.cloudfront.net/wp-content/uploads/gif-9-4.gif",
